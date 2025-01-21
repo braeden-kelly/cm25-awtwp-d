@@ -1,1 +1,1 @@
-- https://github.com/braeden-kelly/cm-awtwp
+- https://github.com/braeden-kelly/cm25-awtwp
